@@ -206,3 +206,25 @@ FROM (
     FROM @SOCCER_DATA_STAGE/player_early_life.json
 );
 
+-----------------------------------------------------------------------------
+-- Create MATCHES_REPORT table and load data from match_reports.json
+-----------------------------------------------------------------------------
+COPY FILES INTO @SOCCER_DATA_STAGE
+FROM 'snow://workspace/USER$.PUBLIC."Snowflake_poc1_git_ws2"/versions/live/data'
+FILES = ('match_reports.json');
+
+CREATE OR REPLACE TABLE MATCHES_REPORT (
+    MATCH_ID INT PRIMARY KEY,
+    MATCH_NAME VARCHAR,
+    MATCH_REPORT VARCHAR
+);
+
+COPY INTO MATCHES_REPORT (MATCH_ID, MATCH_NAME, MATCH_REPORT)
+FROM (
+    SELECT
+        $1:MATCH_ID::INT,
+        $1:MATCH_NAME::VARCHAR,
+        $1:MATCH_REPORT::VARCHAR
+    FROM @SOCCER_DATA_STAGE/match_reports.json
+);
+

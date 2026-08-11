@@ -1,0 +1,102 @@
+[
+  {
+    "MATCH_ID": 1,
+    "MATCH_NAME": "Manchester City vs Liverpool",
+    "MATCH_REPORT": "A highly tactical, fluid draw where both teams traded spells of dominance. Manchester City opened the scoring when Erling Haaland found the net in the 23rd minute, but Mohamed Salah equalised for Liverpool in the 38th minute. In the second half, Phil Foden restored City's lead in the 61st minute before Luis Díaz salvaged a point for the visitors in the 74th minute. The match saw two bookings: Rodri received a yellow card in the 41st minute for a tactical foul to stop a counter-attack, and Alexis Mac Allister was cautioned in the 68th minute for a late sliding challenge. No red cards were issued."
+  },
+  {
+    "MATCH_ID": 2,
+    "MATCH_NAME": "Real Madrid vs Bayern Munich",
+    "MATCH_REPORT": "Real Madrid's clinical transition play overwhelmed the midfield line of the visitors. Jude Bellingham struck early in the 14th minute, and Vinícius Júnior doubled the lead just before half-time in the 44th minute. Harry Kane pulled one back for Bayern in the 62nd minute, but Rodrygo sealed the win for Madrid in the 81st minute. Leon Goretzka was booked in the 35th minute for persistent infringement, and Antonio Rüdiger received a yellow card for dissent in the 70th minute. Bayern's problems worsened in the 78th minute when Dayot Upamecano was shown a straight red card for denying an obvious goal-scoring opportunity."
+  },
+  {
+    "MATCH_ID": 3,
+    "MATCH_NAME": "Paris Saint-Germain vs Manchester City",
+    "MATCH_REPORT": "City controlled possession systematically away from home to break down a deep defensive block. Ousmane Dembélé initially put PSG ahead in the 19th minute. Manchester City mounted a comeback in the second half, with Kevin De Bruyne scoring the equaliser in the 55th minute and Bernardo Silva netting the winner in the 72nd minute. Marquinhos was cautioned with a yellow card in the 48th minute for pulling back an attacker, while Kyle Walker was booked in the 64th minute for kicking the ball away to delay a restart. No red cards were shown."
+  },
+  {
+    "MATCH_ID": 4,
+    "MATCH_NAME": "Liverpool vs Real Madrid",
+    "MATCH_REPORT": "A rigid, defensive chess match focused entirely on structural integrity in wide areas. Darwin Núñez broke the deadlock for Liverpool in the 31st minute, but Kylian Mbappé levelled the score for Real Madrid in the 58th minute to secure a 1-1 draw. Dani Carvajal picked up a yellow card in the 42nd minute for a trip from behind, and Ibrahima Konaté was booked in the 75th minute for a reckless aerial challenge. Neither team finished the match with any red cards."
+  },
+  {
+    "MATCH_ID": 5,
+    "MATCH_NAME": "Bayern Munich vs Manchester City",
+    "MATCH_REPORT": "A low-block masterclass by City, relying on quick counter-pressing triggers to seal the away win. The lone goal of the match came from Erling Haaland in the 67th minute. The game saw several yellow cards: Joshua Kimmich was booked in the 29th minute for a sliding tackle from behind, Rúben Dias was cautioned in the 58th minute for persistent fouling, and Manuel Neuer received a yellow card in the 89th minute for arguing with the referee. No red cards were issued."
+  },
+  {
+    "MATCH_ID": 6,
+    "MATCH_NAME": "Arsenal vs Chelsea",
+    "MATCH_REPORT": "Arsenal exploited width aggressively, suffocating Chelsea’s attempts to build out from the back. Bukayo Saka scored early in the 11th minute, and Martin Ødegaard made it two in the 42nd minute. Cole Palmer gave Chelsea hope with a goal in the 55th minute, but Kai Havertz put the game out of reach in the 79th minute. Moisés Caicedo was shown a yellow card in the 34th minute for a heavy ankle-tap tackle, and Declan Rice was booked in the 71st minute for a tactical shirt pull. No players were sent off."
+  },
+  {
+    "MATCH_ID": 7,
+    "MATCH_NAME": "Barcelona vs Atletico Madrid",
+    "MATCH_REPORT": "Barcelona dominated early central passing lanes to isolate the opponent's wingbacks. Robert Lewandowski opened the scoring in the 28th minute, and young talent Lamine Yamal doubled the advantage in the 65th minute to lock in a 2-0 win. Referees handed out three yellow cards: Rodrigo De Paul in the 19th minute for breaking up a fast break, Gavi in the 52nd minute for an over-aggressive shoulder barge, and Jose Maria Giménez in the 78th minute for a slide tackle into an opponent's ankles. No red cards were reported."
+  },
+  {
+    "MATCH_ID": 8,
+    "MATCH_NAME": "AC Milan vs Inter Milan",
+    "MATCH_REPORT": "A physically demanding derby fought entirely inside a heavily congested central midfield. Lautaro Martínez scored for Inter in the 34th minute, but Rafael Leão answered back for AC Milan in the 52nd minute to split the points. Fikayo Tomori was cautioned in the 22nd minute for checking a player's run, Nicolò Barella was booked in the 45th minute for diving, and Theo Hernández received a yellow card in the 81st minute for squaring up with an opponent. The match finished without any red cards."
+  },
+  {
+    "MATCH_ID": 9,
+    "MATCH_NAME": "Juventus vs Borussia Dortmund",
+    "MATCH_REPORT": "Juventus used an aggressive mid-block strategy to force errors and transition instantly. Dušan Vlahović opened the scoring for Juventus in the 17th minute, but Julian Brandt found a 41st-minute equaliser for Dortmund. Kenan Yıldız struck the decisive blow in the 69th minute to claim victory for the hosts. Emre Can was booked in the 54th minute for stepping on an opponent's foot, and Bremer received a yellow card in the 83rd minute for time-wasting during a goal kick. No red cards were given."
+  },
+  {
+    "MATCH_ID": 10,
+    "MATCH_NAME": "Real Madrid vs Barcelona",
+    "MATCH_REPORT": "High-octane El Clásico featuring deep tactical adjustments to counter explosive wing play. Vinícius Júnior scored first for Madrid in the 22nd minute, but Raphinha brought Barcelona level early in the second half in the 49th minute. Jude Bellingham scored the winning goal for Real Madrid in the 76th minute. Eduardo Camavinga was cautioned in the 38th minute for clipping a heel from behind, and Pedri received a yellow card in the 61st minute for a block to stop a counter-attack. No red cards were shown."
+  },
+  {
+    "MATCH_ID": 11,
+    "MATCH_NAME": "Manchester City vs Arsenal",
+    "MATCH_REPORT": "A masterclass in rest-defense from Pep Guardiola's side to stifle transitional attackers. Phil Foden scored the only goal of the match in the 53rd minute to ensure victory for City. Rodri picked up a yellow card in the 15th minute for an aggressive block in midfield, while Arsenal defenders William Saliba (40th minute, high-footed challenge) and Gabriel Magalhães (72nd minute, dissenting a match official's call) were also booked. No red cards were issued."
+  },
+  {
+    "MATCH_ID": 12,
+    "MATCH_NAME": "Liverpool vs Chelsea",
+    "MATCH_REPORT": "Fast-paced vertical transitions exposed vulnerabilities in the away side's high defensive line. Mohamed Salah opened the scoring with a 15th-minute goal. Nicolas Jackson equalised immediately after the break in the 47th minute, but Diogo Jota secured the win for Liverpool in the 70th minute. Chelsea's Enzo Fernández was booked in the 31st minute for a rough tactical push, and Virgil van Dijk received a yellow card in the 64th minute for a professional foul outside the box. The game saw no red cards."
+  },
+  {
+    "MATCH_ID": 13,
+    "MATCH_NAME": "Paris Saint-Germain vs Bayern Munich",
+    "MATCH_REPORT": "Bayern's relentless high-press forced crucial structural errors inside the hosts' penalty area. Harry Kane struck first in the 27th minute and Jamal Musiala added a second in the 41st minute. Bradley Barcola pulled one back for PSG in the 63rd minute, but Leroy Sané put the game out of reach in the 85th minute. Vitinha was booked in the 50th minute for clipping an ankle during a transition, and Dayot Upamecano received a yellow card in the 74th minute for stopping a cross with a deliberate handball. No red cards were shown."
+  },
+  {
+    "MATCH_ID": 14,
+    "MATCH_NAME": "Arsenal vs Liverpool",
+    "MATCH_REPORT": "An intense physical duel decided by precise execution on attacking set-pieces. Gabriel Martinelli scored for Arsenal in the 22nd minute, but Luis Díaz levelled the score in the 44th minute. Mohamed Salah found the winning goal for Liverpool in the 81st minute. Yellow cards were issued to Ben White in the 26th minute for stopping an attack with a shirt pull, and to Alexis Mac Allister in the 59th minute for sliding in late on a challenge. Neither side received a red card."
+  },
+  {
+    "MATCH_ID": 15,
+    "MATCH_NAME": "Chelsea vs Manchester City",
+    "MATCH_REPORT": "Complete structural suffocation as City methodically denied progress through the half-spaces. Kevin De Bruyne scored the opening goal in the 36th minute, and Erling Haaland doubled the margin in the 64th minute to hand City a comfortable 2-0 away win. Levi Colwill received the match's only disciplinary action, picking up a yellow card in the 44th minute for sliding through the back of an attacker. No red cards were given."
+  },
+  {
+    "MATCH_ID": 16,
+    "MATCH_NAME": "Barcelona vs Real Madrid",
+    "MATCH_REPORT": "Real Madrid's clinical execution on the break thoroughly exposed a disorganized high defensive line. Robert Lewandowski started the game strong with a 12th-minute goal for Barcelona, but Madrid responded ruthlessly with goals from Kylian Mbappé (39'), Jude Bellingham (57'), and Vinícius Júnior (88'). The match's bookings included Jules Koundé in the 30th minute for a professional foul on the wing and Aurélien Tchouaméni in the 71st minute for an aggressive aerial challenge. No red cards were handed out."
+  },
+  {
+    "MATCH_ID": 17,
+    "MATCH_NAME": "Atletico Madrid vs Barcelona",
+    "MATCH_REPORT": "Diego Simeone's signature deep defensive block completely neutralised central combination play. Antoine Griezmann put Atletico ahead in the 29th minute. İlkay Gündoğan found an equaliser for Barcelona in the 54th minute, but Alvaro Morata sealed the victory for Atletico in the 83rd minute. Axel Witsel was booked in the 41st minute for bodying into an attacker to block a run, and Ronald Araújo saw a yellow card in the 67th minute for a dangerous sliding tackle. No players were sent off."
+  },
+  {
+    "MATCH_ID": 18,
+    "MATCH_NAME": "AC Milan vs Juventus",
+    "MATCH_REPORT": "A low-scoring tactical stalemate decided purely by an isolated individual defensive error. Christian Pulisic scored the defining goal of the match in the 62nd minute to seal a 1-0 victory for AC Milan. Manuel Locatelli was shown a yellow card in the 49th minute for a harsh trip in midfield, and Ruben Loftus-Cheek was booked in the 76th minute for kicking the ball away. The match finished without any red cards."
+  },
+  {
+    "MATCH_ID": 19,
+    "MATCH_NAME": "Inter Milan vs AC Milan",
+    "MATCH_REPORT": "Inter utilized superior numbers on overloading flanks to create key overlapping opportunities. Hakan Çalhanoğlu converted early in the 14th minute for Inter, but Olivier Giroud scored a 40th-minute equaliser for Milan. Marcus Thuram secured the derby victory for Inter with a goal in the 73rd minute. Yellow cards were shown to Federico Dimarco in the 38th minute for a tactical body-check and to Davide Calabria in the 85th minute for a trip on a winger. No red cards were issued."
+  },
+  {
+    "MATCH_ID": 20,
+    "MATCH_NAME": "Borussia Dortmund vs Bayern Munich",
+    "MATCH_REPORT": "A fast-paced, direct end-to-end tactical battle with both defensive units stretched thin. Serhou Guirassy opened the scoring for Borussia Dortmund in the 33rd minute, but Harry Kane saved a point for Bayern Munich with a strike in the 68th minute. Nico Schlotterbeck received a yellow card in the 45th minute for a slide tackle inside the penalty box, and Aleksandar Pavlović was booked in the 62nd minute for pushing an opponent away after the whistle. Neither side finished down a man."
+  }
+]
