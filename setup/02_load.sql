@@ -10,7 +10,7 @@ CREATE OR REPLACE STAGE SOCCER_DATA_STAGE
 
 -- Load data files into the stage.
 COPY FILES INTO @SOCCER_DATA_STAGE
-FROM 'snow://workspace/USER$.PUBLIC."Snowflake_poc1_git_ws"/versions/live/data';
+FROM 'snow://workspace/USER$.PUBLIC."Snowflake_poc1_git_ws2"/versions/live/data';
 
 ---- List all files in the STAGE dir
 LIST @SOCCER_DATA_STAGE;
@@ -186,5 +186,23 @@ FROM (
         $1:JERSEY_NUMBER::INT,
         $1:CREATED_AT::DATE
     FROM @SOCCER_DATA_STAGE/player_contracts.json
+);
+
+-----------------------------------------------------------------------------
+-- Create PLAYER_EARLY_LIFE table and load data from player_early_life.json
+-----------------------------------------------------------------------------
+CREATE OR REPLACE TABLE PLAYER_EARLY_LIFE (
+    PLAYER_ID INT PRIMARY KEY,
+    PLAYER_NAME VARCHAR(50),
+    EARLY_LIFE VARCHAR
+);
+
+COPY INTO PLAYER_EARLY_LIFE (PLAYER_ID, PLAYER_NAME, EARLY_LIFE)
+FROM (
+    SELECT
+        $1:player_id::INT,
+        $1:player_name::VARCHAR,
+        $1:early_life::VARCHAR
+    FROM @SOCCER_DATA_STAGE/player_early_life.json
 );
 

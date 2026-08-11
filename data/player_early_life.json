@@ -1,0 +1,147 @@
+[
+  {
+    "player_id": 1,
+    "player_name": "Kylian Mbappé",
+    "early_life": "Born in Bondy, Paris, on 20 December 1998 to Wilfried Mbappé (a football coach of Cameroonian origin) and Fayza Lamari (a former handball player of Algerian Kabyle origin). He grew up in Bondy and was raised in a sporting family, beginning his youth career at AS Bondy where his father coached him."
+  },
+  {
+    "player_id": 2,
+    "player_name": "Erling Haaland",
+    "early_life": "Born on 21 July 2000 in Leeds, England, while his father Alfie Haaland was playing for Leeds United. In 2004, at age three, he moved to Bryne, Norway, his parents' hometown. Besides football, he participated in handball, golf, and track and field as a child. He joined the youth academy of Bryne FK at age five."
+  },
+  {
+    "player_id": 3,
+    "player_name": "Jude Bellingham",
+    "early_life": "Born on 29 June 2003 in Stourbridge, West Midlands, England. He is the eldest son of Denise and Mark Bellingham, a former sergeant in the West Midlands Police and prolific non-League goalscorer. He grew up idolising Zinedine Zidane and joined Birmingham City as an under-8 player."
+  },
+  {
+    "player_id": 4,
+    "player_name": "Virgil van Dijk",
+    "early_life": "Born on 8 July 1991 in Breda, Netherlands, to a Dutch father, Ron van Dijk, and a Surinamese mother, Hellen Fo Sie Eu. He grew up playing football on the streets and concrete pitches of Breda while also working as a dishwasher at a local restaurant during his teenage years before joining the Willem II youth academy."
+  },
+  {
+    "player_id": 5,
+    "player_name": "Lionel Messi",
+    "early_life": "Born on 24 June 1987 in Rosario, Santa Fe, Argentina, to Jorge Messi, a steel factory manager, and Celia Cuccittini, who worked in a magnet manufacturing workshop. Growing up in a football-loving family, he joined local club Grandoli at age four and later Newell's Old Boys. At age 11, he was diagnosed with a growth hormone deficiency and moved to Barcelona at 13 to join La Masia, which agreed to pay for his medical treatment."
+  },
+  {
+    "player_id": 6,
+    "player_name": "Cristiano Ronaldo",
+    "early_life": "Born on 5 February 1985 in Funchal, Madeira, Portugal, to Maria Dolores dos Santos and José Dinis Aveiro. He grew up in a working-class household in the neighbourhood of São Pedro. As a child, he played for amateur team Andorinha, where his father was the kit man, and later spent two years with Nacional before signing with Sporting CP at age 12."
+  },
+  {
+    "player_id": 7,
+    "player_name": "Kevin De Bruyne",
+    "early_life": "Born on 28 June 1991 in Drongen, Ghent, Belgium, to Flemish parents, Henri De Bruyne and Anna Kasnau. Because of his mother's background in Burundi and England, he spent parts of his childhood travelling. He started playing football in his hometown with KVV Drongen at age six before joining Gent's youth setup in 1999 and later moving to Genk."
+  },
+  {
+    "player_id": 8,
+    "player_name": "Mohamed Salah",
+    "early_life": "Born on 15 June 1992 in Nagrig, Basyoun, Egypt. Growing up in a small village, he loved football from an early age and idolised players like Ronaldo, Zinedine Zidane, and Francesco Totti. He started his youth career at local clubs Ittihad Basyoun and Othmason Tanta before being scouted by Al Mokawloon Al Arab at age 14, requiring him to take a three-hour trip to Cairo for daily training."
+  },
+  {
+    "player_id": 9,
+    "player_name": "Sadio Mané",
+    "early_life": "Born on 10 April 1992 in Bambali, Sédhieu, Senegal. Growing up in a poor family, his parents forbade him from playing football as a child, but he pursued it against their wishes with the help of his uncle. At age 15, he ran away from home to Dakar to pursue a career in football and was eventually scouted to join the Académie Génération Foot."
+  },
+  {
+    "player_id": 10,
+    "player_name": "Luka Modrić",
+    "early_life": "Born on 9 September 1985 in Zadar, SR Croatia, SFR Yugoslavia. He grew up in the stone house of his grandfather on the slopes of the Velebit mountain until the Croatian War of Independence broke out in 1991. His grandfather was executed by Serb rebels, forcing his family to flee and live as refugees in hotels in Zadar, where Modrić began playing football amidst the backdrop of war."
+  },
+  {
+    "player_id": 11,
+    "player_name": "Toni Kroos",
+    "early_life": "Born on 4 January 1990 in Greifswald, East Germany, several months before German reunification. His mother Britta was an East German national badminton champion and his father Roland was a football coach. He started his youth career at Greifswalder SC, later moving to Hansa Rostock and then Bayern Munich's youth setup in 2006."
+  },
+  {
+    "player_id": 12,
+    "player_name": "Casemiro",
+    "early_life": "Born on 23 February 1992 in São José dos Campos, São Paulo, Brazil. He was raised in modest circumstances by his mother, Magda Casemiro, after his father left the family when he was young. He joined the youth ranks of São Paulo FC at age 11, where he served as team captain throughout the youth categories."
+  },
+  {
+    "player_id": 13,
+    "player_name": "Neymar Jr",
+    "early_life": "Born on 5 February 1992 in Mogi das Cruzes, São Paulo, Brazil, to Neymar Santos Sr., a former professional footballer, and Nadine da Silva. He inherited his name from his father, who became his advisor. He grew up playing futsal and street football in São Vicente, joining the youth academy of Santos FC in 2003 at age 11."
+  },
+  {
+    "player_id": 15,
+    "player_name": "Robert Lewandowski",
+    "early_life": "Born on 21 August 1988 in Warsaw, Poland. He grew up in Leszno in a family of athletes: his father Krzysztof was a Polish judo champion and footballer, and his mother Iwona was a professional volleyball player. He began his youth football training at Partyzant Leszno and later joined Varsovia Warsaw."
+  },
+  {
+    "player_id": 16,
+    "player_name": "Pedri",
+    "early_life": "Born on 25 November 2002 in Bajamar, Tenerife, Canary Islands, Spain. His family moved to nearby Tegueste when he was three, where his family ran a restaurant. He began playing football at UD Tegueste as a centre-back, later moving to CD Laguna before joining Las Palmas's youth system in 2018."
+  },
+  {
+    "player_id": 17,
+    "player_name": "Gavi",
+    "early_life": "Born on 5 August 2004 in Los Palacios y Villafranca, Seville, Andalusia, Spain. He started his youth career at local club La Liara Balompié between 2010 and 2012 before moving to Real Betis's youth academy, where he scored 95 goals. In 2015, at age 11, he signed for FC Barcelona's La Masia academy."
+  },
+  {
+    "player_id": 18,
+    "player_name": "Frenkie de Jong",
+    "early_life": "Born on 12 May 1997 in Gorinchem, Netherlands, and raised in Arkel, South Holland. He began playing football at a young age for local club ASV Arkel before joining Willem II's youth academy in 2004 at the age of seven."
+  },
+  {
+    "player_id": 19,
+    "player_name": "Antoine Griezmann",
+    "early_life": "Born on 21 March 1991 in Mâcon, Saône-et-Loire, France. His father, Alain, was a town councillor of German/Luxembourgish descent, and his mother, Isabelle, was of Portuguese origin. He started playing at his hometown club UF Mâcon, but faced rejection from several French professional academies due to his small frame before being trial-scouted by Real Sociedad at age 13."
+  },
+  {
+    "player_id": 20,
+    "player_name": "Jan Oblak",
+    "early_life": "Born on 7 January 1993 in Škofja Loka, Slovenia. He started playing football at age five for his hometown club Ločan. At age ten, he moved to the Olimpija youth academy. In 2009, aged 16, he made his professional first-team debut for Olimpija Ljubljana in the Slovenian second tier."
+  },
+  {
+    "player_id": 21,
+    "player_name": "Koke",
+    "early_life": "Born on 8 January 1992 in Madrid, Spain. He joined Atlético Madrid's youth system at the age of eight, progressing through the ranks until making his senior debut for the club in 2009."
+  },
+  {
+    "player_id": 22,
+    "player_name": "João Félix",
+    "early_life": "Born on 10 November 1999 in Viseu, Portugal, to Carlos and Carla Félix, both schoolteachers. He began his youth football career at Os Pestinhas before joining FC Porto's youth academy at age eight, later moving to Benfica's youth system in 2015."
+  },
+  {
+    "player_id": 23,
+    "player_name": "Rafael Leão",
+    "early_life": "Born on 10 June 1999 in Seixal, Portugal. The son of an Angolan father and a São Toméan mother who met in mainland Portugal, he was raised in Amora. He joined Sporting CP's youth system at age ten after brief youth spells at Amora and Foot 21."
+  },
+  {
+    "player_id": 24,
+    "player_name": "Theo Hernández",
+    "early_life": "Born on 6 October 1997 in Marseille, France, to Jean-François Hernández, a former professional footballer, and Laurence Py. He is the younger brother of Lucas Hernández. He grew up in Spain and joined Atlético Madrid's youth academy in 2007 at age nine."
+  },
+  {
+    "player_id": 25,
+    "player_name": "Mike Maignan",
+    "early_life": "Born on 3 July 1995 in Cayenne, French Guiana, to a Haitian mother and a French father. He grew up in France, raised in Villiers-le-Bel, Val-d'Oise, after moving there with his mother. He played for JS Villiers-le-Bel before joining the Paris Saint-Germain youth academy in 2009."
+  },
+  {
+    "player_id": 26,
+    "player_name": "Lautaro Martínez",
+    "early_life": "Born on 22 August 1997 in Bahía Blanca, Argentina. Following in the footsteps of his father, Mario, who was a professional footballer, he initially played as a central defender in his youth before transitioning to a forward at local club Liniers and later joining Racing Club's youth academy."
+  },
+  {
+    "player_id": 27,
+    "player_name": "Nicolò Barella",
+    "early_life": "Born on 7 February 1997 in Cagliari, Sardinia, Italy. He grew up in the Sant'Elia neighborhood of Cagliari and began playing football at the Gigi Riva Football School before entering the youth system of his hometown club, Cagliari Calcio, at age nine."
+  },
+  {
+    "player_id": 28,
+    "player_name": "Federico Dimarco",
+    "early_life": "Born on 10 November 1997 in Milan, Italy. A lifelong supporter of Inter Milan, he joined the Inter Milan youth academy at age seven, progressing through the club's youth categories prior to making his first-team debut."
+  },
+  {
+    "player_id": 29,
+    "player_name": "Dusan Vlahović",
+    "early_life": "Born on 28 January 2000 in Belgrade, FR Yugoslavia. He began playing football at Altina Zemun and later spent time at OFK Beograd and Red Star Belgrade before joining the youth academy of Partizan Belgrade in 2014, where he signed his first professional contract at age 15."
+  },
+  {
+    "player_id": 30,
+    "player_name": "Federico Chiesa",
+    "early_life": "Born on 25 October 1997 in Genoa, Italy, to Enrico Chiesa, a former Serie A and Italy national team footballer, and Francesca Lombardi. He grew up in Florence, attending the International School of Florence, and joined Fiorentina's youth academy in 2007 at age nine."
+  }
+]
